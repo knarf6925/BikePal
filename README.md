@@ -26,3 +26,4 @@ BikePal is a full-stack application using the MVC design pattern, which divides 
 ![classRoster Table](https://image.ibb.co/nsmmue/Class_Roster_Table.png)  
 *3. Database shows new reservation was added*
 
+Made by: Natalie Gonzalez - Isabel Parra - Frank Santiesteban
